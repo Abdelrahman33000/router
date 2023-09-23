@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App {
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+  margin-bottom: 1rem;
+}
